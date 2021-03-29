@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KAEE,iBACA,CACF,KACI,WACF,CACA,GAEE,oBACF,CACF,QACI,cAEF","file":"main.5cb533c8.chunk.css","sourcesContent":["main{\r\n   \r\n  text-align: center;\r\n  }\r\nform{\r\n    margin:auto;\r\n  }\r\n  h3{\r\n    \r\n    white-space: pre-line;\r\n  }\r\n#CONTEX{\r\n    font-size:500%;\r\n \r\n  }"]}
